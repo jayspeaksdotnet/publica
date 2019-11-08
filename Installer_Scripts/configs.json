@@ -1,0 +1,5 @@
+{
+    "repositoryInstallers" : "../Installer_Files",
+    "repositoryInstallerScripts" : "../Installer_Scripts",
+    "repositoryInstallations": "../programs"
+}
